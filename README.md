@@ -383,7 +383,16 @@ pip install hydra
 pip install hydra-core  
 pip install pytorch-lightning    
 python -m pip install git+https://github.com/NVIDIA/NeMo.git@{BRANCH}    
-    
+````
+Create empty repo on github first
+````
+git init
+git add .
+git commit -m "conformer-ctc-large-V-1"
+git remote add origin https://github.com/saadnaeem-dev/nvidia-conformer-ctc.git
+git branch -M main
+git push -u origin main
+
 ````
 
 Transformer Engine
