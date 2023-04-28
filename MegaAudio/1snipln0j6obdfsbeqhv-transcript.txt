@@ -1,0 +1,37 @@
+Insurance Agent: Hello, this is Serkan from Afiniti Insurance How are you doing today?
+
+Potential Customer: Hello. I'm good, thank you.
+
+Insurance Agent: I'm calling because I noticed that you may be in need of insurance coverage for your car. Can I ask you a few questions to determine the best coverage options for you?
+
+Potential Customer: Sure, go ahead.
+
+Insurance Agent: Great! Let me start by asking, do you currently have insurance coverage for your car?
+
+Potential Customer: Yes, I have insurance coverage for my car
+
+Insurance Agent: That's great. Can I ask what type of coverage you have and who your current provider is?
+
+Potential Customer: I have full coverage with %100 payment premiums with Allianz Insurance
+
+Insurance Agent: Okay, thank you. Let me take a moment to review your current coverage and see if there are any areas where we can improve your coverage or offer a better rate.
+
+Potential Customer: Okay, sure.
+
+Insurance Agent: Great! I've reviewed your current coverage and it looks like we can offer you lower premium rates and better discounts at the same time. With our insurance coverage, you'll have access to 24/7 customer support, as well as a range of discounts for things like multiple policies, safety features.
+
+Potential Customer: That sounds interesting. Can you give me a quote for the coverage you're offering?
+
+Insurance Agent: Absolutely! Can you please provide me with some information so I can give you an accurate quote?
+
+Potential Customer: Sure. I am currently paying 400 dollars a month.
+
+Insurance Agent: Great! Based on the information you've provided, I can offer you coverage with for just 250 dollar a month.
+
+Potential Customer: That sounds good. Can I think about it and get back to you?
+
+Insurance Agent: Of course! I understand that buying insurance is a big decision. Take your time and let me know if you have any questions. Here's my direct line 415 513 11 39. I look forward to hearing from you soon.
+
+Potential Customer: Okay, thank you for your time. I will definitely consider your offer. Have a great day.
+
+Insurance Agent: You're welcome! Thank you for considering Afiniti Insurance. Have a great day as well.

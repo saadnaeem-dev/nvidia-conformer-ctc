@@ -1,0 +1,19 @@
+Saud: Good Afternoon. This is Saud speaking. How may I help you?
+Muhittin: Hello Saud. My name is Muhittin Yöndem and I’m calling because we have issues with our internet connection.
+Saud: Okay, Sir. Could you please provide me with more details?
+Muhittin: Sure. During the day our internet is fast but during the nights the connection is very bad. What could cause that?
+Saud: This is because during the nights there is a lot more traffic.
+Muhittin: What we should do in this case?
+Saud: My suggestion is to send you a new router that will be more powerful.
+Muhittin: This sounds great.
+Saud: I will inform our technical team to visit you and implement the new router.
+Muhittin: Okay.
+Saud: Could you please provide me with your address, Mr. Yöndem?
+Muhittin: It’s  Bahar street, Pendik  İstanbul.
+Saud: Thank you. Would next Tuesday at 3 pm suit you?
+Muhittin: Yes, it’s fine. I will be at home at that time.
+Saud: Great. Thanks for your call, Mr. Yöndem.
+Muhittin: Thank you for your time, Saud.
+Saud: Have a nice day!
+Muhittin: Thanks. Bye.
+Saud: Bye.
